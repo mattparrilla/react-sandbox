@@ -9,4 +9,5 @@ Thumbs.db
 #static files workflow
 .sass-cache
 node_modules
+dist
 **/libs
